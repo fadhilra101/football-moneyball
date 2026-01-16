@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+models_untested/
+data_cache/
+.vscode/
