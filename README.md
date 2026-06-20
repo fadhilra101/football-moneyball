@@ -1,6 +1,6 @@
 # ⚽ Moneyball - Football Player Analytics & Scout Engine
 
-![Moneyball](https://media.giphy.com/media/oFPiPvq7eg5iGKDR27/giphy.gif)
+![Moneyball](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV0djV1cmZ4bjhmZ2FwaDZrOXlha3ZtdzdwYmQxMXNvdXoxdjRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZCCzI0aRYhLG/giphy.gif)
 
 > **"Money Ball: Finding the hidden gems in football through data science and machine learning"**
 
@@ -126,7 +126,7 @@ Output: fbref_ultimate_2425.csv + cache_data/
 - Pass completion % - ball retention ability
 - Progressive carries - dribbling & ball progression
 
-![Data Collection](https://media.giphy.com/media/26gsspFBh5zsBC0WQ/giphy.gif)
+![Data Collection](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF0d3F3bWpmMzBvOW91anR1emFrMXRvbTltZ3E2YjVubGpma2luYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C8DEiOst8nEE7oLbsG/giphy.gif)
 
 ---
 
@@ -155,7 +155,7 @@ Columns: 100+ normalized performance features
 Rows: ~2000 professional players
 ```
 
-![Preprocessing](https://media.giphy.com/media/jIQaAv9hKqnRpWNhtP/giphy.gif)
+![Preprocessing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB2aTNoOW5lZW8xNGRwNDZkZmRmdzVwcnY3cXQ1ajlzaWV0bzVxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gtWPqMuppPgrQb25Oi/giphy.gif)
 
 ---
 
@@ -284,7 +284,7 @@ models_untested/
 └── df_df.pkl
 ```
 
-![ML Training](https://media.giphy.com/media/xTiTnj7AKZSmP7w4Je/giphy.gif)
+![ML Training](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmdWIxZDF6cjYwc2w3N3EyN3UyN3ZjNGl6MnpnamRoMHNiY2dibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v9Yf7G2RghFzYkISjk/giphy.gif)
 
 ---
 
@@ -353,7 +353,7 @@ Results (Top 5):
 ...
 ```
 
-![Player Search](https://media.giphy.com/media/3o7TKsUhHb1QQIIUne/giphy.gif)
+![Player Search](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g3bTl6anpvYWYwcWd1bXoxc3ViOTF2Mm5uZnp2OG44ajc0amxzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/My8Zr0fQ7yBY83g49m/giphy.gif)
 
 ---
 
